@@ -16,12 +16,11 @@ This is a simple code to finding recipes for this mixtures. You can:
 findSeedBetween(0, 4294967295.0, mat, true, true, true, 100);
 ```
 In this example we set:
- range (0, 4294967295), 
- array of materials, 
- that we want a Lively Concoction,
- that we want a Alchemic Precursor,
- that the return world seed must contain both recipes with our materials
- that there must by 100% of probability (I don't know what smaller probabilities do but I prefer to find 100% recipes)
+- range (0, 4294967295), 
+- array of materials, 
+- that we want a Lively Concoction,
+- that we want a Alchemic Precursor,
+- that the return world seed must contain both recipes with our materials that there must by 100% of probability (I don't know what smaller probabilities do but I prefer to find 100% recipes)
 
 When we run the above code, we will see:
 ![image](images/exampleResult.PNG)
