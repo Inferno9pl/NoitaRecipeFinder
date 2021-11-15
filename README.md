@@ -23,6 +23,7 @@ In this example we set:
 - that the return world seed must contain both recipes with our materials that there must by 100% of probability (I don't know what smaller probabilities do but I prefer to find 100% recipes)
 
 When we run the above code, we will see:
+
 ![image](images/exampleResult.PNG)
 
 
